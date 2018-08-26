@@ -1,0 +1,2 @@
+# scalesrus
+GitHub Pages
